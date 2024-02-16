@@ -1,0 +1,17 @@
+# ninja log v5
+2	213	7297700502965510	build.ninja	c22c0bd6e3040542
+4	308	7297693229727963	CMakeFiles/WorkSample_C___.dir/main.cpp.obj	ee79eefdb75771ca
+272	354	7297688757085841	WorkSample_C___.exe	4d96b4fee8426e49
+0	215	7297700502965510	build.ninja	c22c0bd6e3040542
+11	357	7297700506664017	CMakeFiles/WorkSample_C___.dir/Board.cpp.obj	99d5f5f85307b449
+5	359	7297700506674048	CMakeFiles/WorkSample_C___.dir/Bishop.cpp.obj	c309dbd1d4234cef
+22	366	7297700506754008	CMakeFiles/WorkSample_C___.dir/King.cpp.obj	69d36fbf42ff343e
+52	414	7297700507257124	CMakeFiles/WorkSample_C___.dir/Pawn.cpp.obj	18d806ee26dcb193
+16	416	7297700507257124	CMakeFiles/WorkSample_C___.dir/GameEngine.cpp.obj	2b92c94f3fd80d0b
+35	421	7297700507317133	CMakeFiles/WorkSample_C___.dir/Knight.cpp.obj	6957d9630a6f4b5e
+68	423	7297700507347128	CMakeFiles/WorkSample_C___.dir/Piece.cpp.obj	b18d474033233492
+83	430	7297700507407122	CMakeFiles/WorkSample_C___.dir/Player.cpp.obj	345a00f26cc71c1c
+97	439	7297700507497126	CMakeFiles/WorkSample_C___.dir/Queen.cpp.obj	c10441fc824d6cdf
+112	463	7297700507737128	CMakeFiles/WorkSample_C___.dir/Rook.cpp.obj	5531b0be0b9ab46d
+127	477	7297700507877123	CMakeFiles/WorkSample_C___.dir/main.cpp.obj	ee79eefdb75771ca
+477	590	7297700508982240	WorkSample_C___.exe	7e0bfcf6fae207af

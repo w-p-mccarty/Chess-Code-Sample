@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "WorkSample_C___.exe"
+			"path" : "Chess-Code-Sample.exe"
 		},
 		{
-			"path" : "WorkSample_C___.pdb"
+			"path" : "Chess-Code-Sample.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -66,7 +66,7 @@
 			]
 		}
 	],
-	"id" : "WorkSample_C___::@6890427a1f51a3e7e1df",
+	"id" : "Chess-Code-Sample::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -86,8 +86,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "WorkSample_C___",
-	"nameOnDisk" : "WorkSample_C___.exe",
+	"name" : "Chess-Code-Sample",
+	"nameOnDisk" : "Chess-Code-Sample.exe",
 	"paths" : 
 	{
 		"build" : ".",

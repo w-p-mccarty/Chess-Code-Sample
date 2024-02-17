@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "h:/Projects/Repos/WorkSample-C++-/cmake-build-debug"
+			"value" : "h:/Projects/Repos/Chess-Code-Sample/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "H:/Projects/Repos/WorkSample-C++-/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "H:/Projects/Repos/Chess-Code-Sample/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "H:/Projects/Repos/WorkSample-C++-"
+			"value" : "H:/Projects/Repos/Chess-Code-Sample"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/WorkSample_C___"
+			"value" : "C:/Program Files (x86)/Chess-Code-Sample"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "WorkSample_C___"
+			"value" : "Chess-Code-Sample"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1270,7 +1270,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "WorkSample_C____BINARY_DIR",
+			"name" : "Chess-Code-Sample_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1279,10 +1279,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "H:/Projects/Repos/WorkSample-C++-/cmake-build-debug"
+			"value" : "H:/Projects/Repos/Chess-Code-Sample/cmake-build-debug"
 		},
 		{
-			"name" : "WorkSample_C____IS_TOP_LEVEL",
+			"name" : "Chess-Code-Sample_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1294,7 +1294,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "WorkSample_C____SOURCE_DIR",
+			"name" : "Chess-Code-Sample_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "H:/Projects/Repos/WorkSample-C++-"
+			"value" : "H:/Projects/Repos/Chess-Code-Sample"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

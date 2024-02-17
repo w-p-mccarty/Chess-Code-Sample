@@ -1,3 +1,3 @@
-H:/Projects/Repos/WorkSample-C++-/cmake-build-debug/CMakeFiles/WorkSample_C___.dir
-H:/Projects/Repos/WorkSample-C++-/cmake-build-debug/CMakeFiles/edit_cache.dir
-H:/Projects/Repos/WorkSample-C++-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+H:/Projects/Repos/Chess-Code-Sample/cmake-build-debug/CMakeFiles/Chess-Code-Sample.dir
+H:/Projects/Repos/Chess-Code-Sample/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/Projects/Repos/Chess-Code-Sample/cmake-build-debug/CMakeFiles/rebuild_cache.dir

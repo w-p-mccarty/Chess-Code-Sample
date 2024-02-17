@@ -122,7 +122,6 @@ bool Player::isInCheck()
 {
 
 	return _inCheck;
-
 }
 
 //Modifies Player Check Status

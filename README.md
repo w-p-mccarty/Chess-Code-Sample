@@ -139,7 +139,9 @@ Player 1:b2 b3
  *****************
 Player 2:
 ```
+
 The board will update the piece and the other player now plays.
+
 ----
 ### Pieces
 ----

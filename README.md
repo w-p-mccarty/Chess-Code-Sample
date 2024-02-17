@@ -143,7 +143,7 @@ The board will update the piece and the other player now plays.
 ----
 ### Pieces
 ----
-####Pawn
+#### Pawn
 Pawns can move 1-2 moves only the first time they are moved, after they can only move 1 space forward or diagonal if they are taking a piece
 ```
 First turn
@@ -169,7 +169,7 @@ Taking piece
  *****************
 ```
 ----
-####Rook
+#### Rook
 Rooks can only move in straight lines, but can move as many spaces as allows, without going over other pieces.
 
 ```
@@ -181,7 +181,7 @@ Rooks can only move in straight lines, but can move as many spaces as allows, wi
  *****************
  ```
 ----
-####Bishop
+#### Bishop
 Bishops can move diagonal only, as many spaces as allows without going over other pieces.
 ```
  *X* *X* ** * * *
@@ -193,7 +193,7 @@ Bishops can move diagonal only, as many spaces as allows without going over othe
  ```
 
 ----
-####Knight
+#### Knight
 Knights can move 2 spaces in and straight direction, then 1 space adjacent to it.
 ```
 
@@ -207,7 +207,7 @@ Knights can move 2 spaces in and straight direction, then 1 space adjacent to it
  *****************
  * * *X* *X* * * *
 ```
-####Queen
+#### Queen
 The Queen can move vertical or horizontal and diagonal.
 ```
 
@@ -222,7 +222,7 @@ The Queen can move vertical or horizontal and diagonal.
  *X* * *X* * *X* *
 ```
 ----
-####King
+#### King
 The King is the piece you are trying to protect and not be in check/checkmate.  This piece can move 1 space in any direction
 ```
  * * *X*X**X* * *
